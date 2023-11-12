@@ -1,0 +1,5 @@
+pytorch
+sentencepiece
+hugginface
+streamlit
+transformers

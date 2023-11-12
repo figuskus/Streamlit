@@ -1,5 +1,3 @@
-pytorch
-sentencepiece
-hugginface
-streamlit
-transformers
+streamlit==1.7.1
+transformers==4.10.3
+torch==1.9.0

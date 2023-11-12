@@ -11,7 +11,7 @@ with st.spinner(text='Pracuję...'):
     st.success('Done')
 
 st.title('Lab05. Streamlit :)))')
-st.image("/app/streamlit/pythonProject1/logo.jpg")
+#st.image("/app/streamlit/pythonProject1/logo.jpg")
 
 st.header('Translator z angielskiego na niemiecki')
 st.text('Ta aplikacja służy do tłumaczenia tekstu z języka angielskiego na niemiecki, stosując do tego funkcjonalności hugginface')
